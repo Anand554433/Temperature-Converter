@@ -1,0 +1,50 @@
+body{
+    background-color: hsl(0, 0%, 86%);
+}
+
+h1{
+    font-style: italic;
+    color: rgb(44, 108, 165);
+}
+
+#Converter{
+    text-align: center;
+    box-shadow: 5px 5px 3px rgb(115, 172, 233);
+    background-color: aliceblue;
+    border-radius: 5px;
+    max-width: 400px;
+    margin:auto;
+    padding: 25px;
+}
+
+#textBox{
+    width: 50%;
+    text-align: center;
+    font-style: bold;
+    font-size: 1.5em;
+    border-style: dashed;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+label{
+    padding-top: 20px;
+    padding-bottom: 100px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+button{
+    margin-top: 15px;
+    padding: 10px;
+    font-size: 1em;
+    background-color: rgb(250, 59, 1);
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: center;
+}
+
